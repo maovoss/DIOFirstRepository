@@ -1,0 +1,3 @@
+LINKS
+para guia do markdown: https://www.markdownguide.org/basic-syntax/
+para dowload do Git: https://git-scm.com/download/win
